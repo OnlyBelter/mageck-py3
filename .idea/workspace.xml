@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7366f778-702f-4449-b3ba-417c9b8d1123" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../August/week1/Genome-wide CRISPR Screen in a Mouse Model of Tumor Growth and Metastasis, cell, 2015.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../August/week1/Genome-wide CRISPR Screen in a Mouse Model of Tumor Growth and Metastasis, cell, 2015.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../July/week2/s13059-015-0843-6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../July/week4/Targeting an RNA-Binding Protein Network in Acute Myeloid Leukemia, 2019.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../July/week4/Targeting an RNA-Binding Protein Network in Acute Myeloid Leukemia, 2019.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S0022283618306636-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S0092867416316117-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S0092867418303842-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S009286741831554X-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S0958166916302087-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S1044579X17302742-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1-s2.0-S1097276519302813-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../10.1007@s40199-019-00240-z.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15545.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../722.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../945.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Molecular and Cellular Biology-2017-Bertomeu-e00302-17.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Weissman, 2014, cell.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../acschembio.7b00778.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../acssynbio.8b00237.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../annurev-biophys-062215-010822.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../e7656.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nbt.3659.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nbt.3715.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nbt.4062.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nchembio.2050.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ng.3884.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nmeth.4604.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nrd.2016.175.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nrg.2017.97.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nrg3899.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nrm.2015.2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MAGeCK+enables+robust+identification+of+essential+genes+from+genome-scale+CRISPR+Cas9+knockout+screens.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../MAGeCK+enables+robust+identification+of+essential+genes+from+genome-scale+CRISPR+Cas9+knockout+screens.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s12885-019-5455-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s13059-018-1425-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s13059-018-1563-5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s13059-019-1621-7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s41467-018-04209-5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s41467-018-07901-8.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../s41580-019-0131-5.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../May/week3/1-s2.0-S0167779914002406-main.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../May/week3/5461.full.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../May/week3/btu743.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../May/week3/s41592-018-0011-5.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mageck_0_5_9$mageck.coverage" NAME="mageck Coverage Results" MODIFIED="1565944132572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bin" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/setup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1292">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/mageck">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+              <folding>
+                <element signature="e#360#397#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mageck/fileOps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
+              <folding>
+                <element signature="e#367#404#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mageck/fdr_calculation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+              <folding>
+                <element signature="e#428#475#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>iteritems</find>
+      <find>keys()</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/mageck/argsParser.py" />
+        <option value="$PROJECT_DIR$/mageck/fileOps.py" />
+        <option value="$PROJECT_DIR$/mageck/mageckMathFunc.py" />
+        <option value="$PROJECT_DIR$/mageck/bayes_selection.py" />
+        <option value="$PROJECT_DIR$/mageck/cnv_estimation.py" />
+        <option value="$PROJECT_DIR$/mageck/cnv_normalization.py" />
+        <option value="$PROJECT_DIR$/mageck/crisprFunction.py" />
+        <option value="$PROJECT_DIR$/bin/mageck" />
+        <option value="$PROJECT_DIR$/mageck/fdr_calculation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1920" />
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mageck-0.5.9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mageck-0.5.9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mageck-0.5.9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mageck-0.5.9" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mageck-0.5.9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mageck-0.5.9" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/mageck" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="mageck-0.5.9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/miniconda3/envs/bio-info/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/mageck" />
+      <option name="PARAMETERS" value="test -k ../demo/demo1/sample.txt -t HL60.final,KBM7.final -c HL60.initial,KBM7.initial -n demo2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mageck" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mageck-0.5.9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/mageck" />
+      <option name="PARAMETERS" value="test -k ../demo/demo1/sample.txt -t HL60.final,KBM7.final -c HL60.initial,KBM7.initial -n ../demo/demo1/demo2" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mageck" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7366f778-702f-4449-b3ba-417c9b8d1123" name="Default Changelist" comment="" />
+      <created>1565923447849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565923447849</updated>
+      <workItem from="1565923450302" duration="11724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11724000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32903227" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32903227" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mageck/crisprFunction.py</url>
+          <line>855</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mageck/mageckMathFunc.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>list(matt)[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(matt+[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matt[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>meanvalue[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>meanvalue</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cttab.keys()[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>cttab.keys()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PKG-INFO">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rra/src/classdef.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/452101413/sys.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/version.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/bio-info/lib/python3.6/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/bio-info/lib/python3.6/argparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1677" lean-forward="true" selection-start-line="1677" selection-end-line="1677" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/bio-info/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="306" column="7" lean-forward="true" selection-start-line="306" selection-start-column="7" selection-end-line="306" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/miniconda3/envs/bio-info/lib/python3.6/distutils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1292">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/bayes_selection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/cnv_estimation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6583">
+          <caret line="227" lean-forward="true" selection-start-line="227" selection-end-line="227" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/cnv_normalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5895">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#84#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/types.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/mageck">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#360#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/argsParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="212" column="4" selection-start-line="212" selection-start-column="4" selection-end-line="212" selection-end-column="4" />
+          <folding>
+            <element signature="e#340#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/mageckMathFunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/crisprFunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="661" column="5" lean-forward="true" selection-start-line="661" selection-start-column="5" selection-end-line="661" selection-end-column="5" />
+          <folding>
+            <element signature="e#356#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/fileOps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
+          <folding>
+            <element signature="e#367#404#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mageck/fdr_calculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#428#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
